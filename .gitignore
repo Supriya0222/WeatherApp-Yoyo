@@ -1,0 +1,38 @@
+# User-specific files
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
+
+# Build and Derived Data
+build/
+DerivedData/
+
+# iOS specific
+Pods/
+Carthage/
+CocoaPods/
+
+# Swift Package Manager
+/.build/
+Packages/
+
+# App-specific settings
+*.log
+*.swp
+.idea/
+
+# Archives
+*.xcarchive
+
+# Provisioning profiles
+*.mobileprovision
+*.entitlements
+
+# Configs
+*.xcconfig
+
+
+# User settings
+*.user
+*.xcuserstate
