@@ -30,7 +30,7 @@ Vanilla iOS development
 ## Steps configure the API key and run the project locally
 - Sign Up at OpenWeatherMap.
 - Get your API Key and insert it into the app.
--  **Create the `ConfigSecret.xcconfig` File**: - In the root directory of the project, create a new file named `Secrets.xcconfig`.
+-  **Create the `ConfigSecret.xcconfig` File**: - In the root directory of the project, create a new file named `ConfigSecret.xcconfig`.
 - Add the following line to store your API key: ```plaintext API_KEY = "your_api_key_here" ``` - Replace `"your_api_key_here"` with your actual API key from the weather service (or other API you are using).
 - **Run the Project**: - After creating the `ConfigSecret.xcconfig` file, you should be able to run the app and the API key will be automatically accessed via the `Info.plist` and used for making network requests.
 
