@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Supriya Rajkoomar on 14/11/2024.
+  
+*/
+
+
+"10_day_forecast" = "10-DAY FORECAST";
+"server_error" = "Failed to load weather data:";
+"error.title" = "Error";
+"today" = "Today";
+"locations_permissions_denied" = "Permissions were denied, please enable them in settings";
+
+
